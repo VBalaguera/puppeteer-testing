@@ -1,0 +1,38 @@
+[
+  {
+    "title": "blackguard",
+    "date": "personal blog - September - October 2022",
+    "description": "Using Nextjs with Tailwind, adding Hygraph (blog content) and MongoDB (everything else).",
+    "link": "https://vblackguard.com/"
+  },
+  {
+    "title": "kiosk",
+    "date": "July 2022",
+    "description": "Nextjs news API project with CRUD functions (Firebase).",
+    "link": "https://kiosk-vbalaguera.vercel.app/"
+  },
+  {
+    "title": "Momentum",
+    "date": "A financial podcast - July 2021 - September 2022",
+    "description": "As a junior developer I took care of using Nuxt, combining it with Strapi, Google Auth, etc. I catered the company's content, and made sure everything didn't explote at the end of the day. Success was partial.",
+    "link": "https://momentum.financial/"
+  },
+  {
+    "title": "Postcards from Another Galaxy",
+    "date": "A photographic gallery - 2021",
+    "description": "Jump into the world of No Man's Sky.",
+    "link": "https://frosty-golick-39046a.netlify.app/"
+  },
+  {
+    "title": "тетрис",
+    "date": "A timeless classic - 2022",
+    "description": "This is a personal one. A brief, concise love letter to this legendary Soviet game under the excuse of following (and ultimately tinkering and upgrading by include features like: several difficulty levels, all tetrominoes, and so on) a basic js gaming creation project. Game section is still receiving updates.",
+    "link": "https://upbeat-newton-d93296.netlify.app/"
+  },
+  {
+    "title": "Carrington",
+    "date": "A budgetary app - 2022",
+    "description": "The basic idea is to take a small budget app project and improve it by implementing a growing number of functionalities. Project is still going on.",
+    "link": "https://sleepy-yonath-a48284.netlify.app/"
+  }
+]
